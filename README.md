@@ -12,5 +12,7 @@ Site estático (HTML, CSS e JavaScript com GSAP). Não precisa de banco de dados
 - **Número do WhatsApp e mensagens:** topo de `js/main.js` (`WA_NUMBER` e `WA_MESSAGES`).
 - **Textos:** direto no `index.html`.
 
-## Como publicar (HostGator)
-Envie todo o conteúdo desta pasta para `public_html/` (pelo Gerenciador de Arquivos do cPanel ou por FTP). O `index.html` precisa ficar direto dentro de `public_html/`.
+## Como publicar (Hostinger)
+
+Site no ar em https://gestaotax.com.br (Hostinger, plano Business; domínio no registro.br com DNS aurora/nebula.dns-parking.com).
+Para atualizar: hPanel > Sites > gestaotax.com.br > Gerenciador de arquivos > public_html. O index.html precisa ficar direto dentro de public_html/.
